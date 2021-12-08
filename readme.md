@@ -25,3 +25,5 @@
 ## - npm install ou yarn install
 
 <img src="assets/img/readme.png" />
+<img src="assets/img/readme_2.png" />
+<img src="assets/img/readme_3.png" />
